@@ -74,7 +74,7 @@ when finished succesfully...
 
 * 8090 and the port inside the container - 8080, which is specified as the -p 8090:8080 argument.
 
-### Run
+## Run
 
 `mvn spring-boot:run`
 
