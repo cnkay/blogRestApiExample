@@ -77,3 +77,7 @@ when finished succesfully...
 ### Run
 
 `mvn spring-boot:run`
+
+### Swagger UI
+
+`localhost:8080/swagger-ui.html`
